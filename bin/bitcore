@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var bitcore = require('bitcore-node-npccoin/lib/cli/bitcore');
+var bitcore = require('npccoincore-node/lib/cli/bitcore');
 var path = require('path');
 var servicesPath = path.resolve(__dirname, '../');
 var additionalServices = ['insight-api-npccoin', 'insight-ui-npccoin'];

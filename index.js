@@ -1,5 +1,5 @@
 'use strict';
 
-var bitcore = require('bitcore-lib-npccoin');
+var bitcore = require('npccoincore-lib');
 
 module.exports = bitcore;

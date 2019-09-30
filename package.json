@@ -13,6 +13,10 @@
     "bitcored": "./bin/bitcored"
   },
   "contributors": [
+  	{
+      "name": "Estilodevida",
+      "email": "estilodevidanpc@gmail.com.com"
+    },
     {
       "name": "Daniel Cousens",
       "email": "bitcoin@dcousens.com"
@@ -82,8 +86,8 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "bitcore-lib-npccoin": "^0.13.20",
-    "bitcore-node-npccoin": "~3.0.4",
+    "npccoincore-lib": "^0.17.9",
+    "npccoincore-node": "~3.0.4",
     "insight-api-npccoin": "^0.4.5",
     "insight-ui-npccoin": "^0.4.3"
   },

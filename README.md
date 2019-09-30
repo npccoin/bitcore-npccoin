@@ -5,7 +5,7 @@
 
 Infrastructure to build NPCcoin and blockchain-based applications for the next generation of financial technology.
 
-**Note:** If you're looking for the Bitcore-NPCcoin Library please see: https://github.com/npccoin/bitcore-lib-npccoin
+**Note:** If you're looking for the Bitcore-NPCcoin Library please see: https://github.com/npccoin/npccoincore-lib
 
 ## Getting Started
 
@@ -34,7 +34,7 @@ transaction.sign(privateKey);
 
 ## Applications
 
-- [Node-NPCcoin](https://github.com/npccoin/bitcore-node-npccoin) - A full node with extended capabilities using NPCcoin Core
+- [Node-NPCcoin](https://github.com/npccoin/npccoincore-node) - A full node with extended capabilities using NPCcoin Core
 - [Insight API-NPCcoin](https://github.com/npccoin/insight-api-npccoin) - A blockchain explorer HTTP API
 - [Insight UI-NPCcoin](https://github.com/npccoin/insight-ui-npccoin) - A blockchain explorer web user interface
 - [Wallet Service](https://github.com/npccoin/bitcore-wallet-service-npccoin) - A multisig HD service for wallets
@@ -45,7 +45,7 @@ transaction.sign(privateKey);
 
 ## Libraries
 
-- [Lib-NPCcoin](https://github.com/npccoin/bitcore-lib-npccoin) - All of the core NPCcoin primatives including transactions, private key management and others
+- [Lib-NPCcoin](https://github.com/npccoin/npccoincore-lib) - All of the core NPCcoin primatives including transactions, private key management and others
 - Payment Protocol - A protocol for communication between a merchant and customer
 - [P2P-NPCcoin](https://github.com/npccoin/bitcore-p2p-npccoin) - The peer-to-peer networking protocol
 - [Mnemonic-NPCcoin](https://github.com/npccoin/bitcore-mnemonic-npccoin) - Implements mnemonic code for generating deterministic keys
