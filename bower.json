@@ -1,19 +1,19 @@
 {
-  "name": "bitcore-dash",
+  "name": "bitcore-npccoin",
   "main": "./bitcore.min.js",
   "version": "0.13.5",
   "homepage": "http://bitcore.io",
   "authors": [
     "BitPay, Inc."
   ],
-  "description": "A pure, powerful core for your dash project.",
+  "description": "A pure, powerful core for your npccoin project.",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "dash",
+    "npccoin",
     "bitcore",
-    "dsh",
+    "npc",
     "satoshi"
   ],
   "license": "MIT",
