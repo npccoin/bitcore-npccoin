@@ -1,6 +1,6 @@
 {
   "name": "bitcore-npccoin",
-  "version": "4.1.4",
+  "version": "4.1.5",
   "description": "A platform to build NPCcoin and blockchain-based applications.",
   "author": "NPCcoin Core Group <npccoin@gmail.com>",
   "main": "index.js",
@@ -52,7 +52,7 @@
   "dependencies": {
     "npccoincore-lib": "^0.17.9",
     "npccoincore-node": "~3.0.4",
-    "insight-api-npccoin": "^0.4.5",
+    "insight-api-npccoin": "^0.2.20",
     "insight-ui-npccoin": "^0.4.3"
   },
   "license": "MIT",
