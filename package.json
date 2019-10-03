@@ -50,8 +50,8 @@
     "request": "browser-request"
   },
   "dependencies": {
-    "npccoincore-lib": "^0.17.9",
-    "npccoincore-node": "~3.0.4",
+    "npccoincore-lib": "^0.18.0",
+    "npccoincore-node": "~5.1.4",
     "insight-api-npccoin": "^0.2.20",
     "insight-ui-npccoin": "^0.4.3"
   },
