@@ -3,7 +3,7 @@
 'use strict';
 
 var path = require('path');
-var bitcored = require('npccoincore-node/lib/cli/bitcored');
+var bitcored = require('npccoincore-node/lib/cli/npccoincored');
 var servicesPath = path.resolve(__dirname, '../');
 var additionalServices = ['insight-api-npccoin', 'insight-ui-npccoin'];
 bitcored(servicesPath, additionalServices);
